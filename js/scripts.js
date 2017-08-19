@@ -30,6 +30,8 @@ $(document).ready(function() {
 var span = $("span");
 $("span:odd").css('color', 'red');
 
+});
+
 var paragraphs = $('p');
 paragraphs.each(function(index, element) {
 
